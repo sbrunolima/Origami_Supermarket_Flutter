@@ -24,12 +24,6 @@ Used packages:
  - flutter_launcher_icons
  - firebase_auth
 
-
-About the SONGS:
- - Page: https://ncs.io
- - Usage Policy: https://ncs.io/usage-policy
- - Youtube: https://www.youtube.com/user/nocopyrightsounds
-
 About the author:
  - Name: Bruno L. Santos
  - Role: Flutter Engineer
